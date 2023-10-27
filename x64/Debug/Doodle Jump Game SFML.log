@@ -1,0 +1,10 @@
+﻿  Doodle Jump Game SFML.cpp
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(71,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(73,14): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(83,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(95,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(95,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(105,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\Doodle Jump Game SFML.cpp(105,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Doodle Jump Game SFML.vcxproj -> C:\Users\onlyg\Desktop\Programare\Proiecte\Doodle Jump Game SFML\x64\Debug\Doodle Jump Game SFML.exe
